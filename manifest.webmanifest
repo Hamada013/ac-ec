@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "AC / EC — الفهم السمعي والتعبير التواصلي",
+  "short_name": "AC / EC",
+  "description": "اختبار الفهم السمعي والتعبير التواصلي للأطفال حتى عمر 7:11، مع العمر اللغوي وتقرير واضح ومتابعة التقدم، ويعمل دون إنترنت.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "categories": ["medical", "education", "health"],
+  "prefer_related_applications": false,
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "screenshots": [
+    {"src": "screenshots/split-wide.png", "sizes": "1280x800", "type": "image/png", "form_factor": "wide", "label": "الفهم السمعي والتعبير التواصلي معاً"},
+    {"src": "screenshots/split-phone.png", "sizes": "1080x1920", "type": "image/png", "form_factor": "narrow", "label": "شاشة الفحص على الهاتف"}
+  ]
+}

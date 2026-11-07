@@ -1,0 +1,5 @@
+node_modules/
+output/
+.DS_Store
+# Research data stays on this computer, never in the public repository.
+research/
